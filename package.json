@@ -1,0 +1,24 @@
+{
+  "name": "nanofy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikossor/Nanofy.git"
+  },
+  "keywords": [
+    "nano",
+    "nanofy",
+    "minify"
+  ],
+  "author": "André Lichtenthäler",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bikossor/Nanofy/issues"
+  },
+  "homepage": "https://github.com/Bikossor/Nanofy#readme"
+}
